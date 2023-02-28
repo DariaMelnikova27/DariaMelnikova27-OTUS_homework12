@@ -9,6 +9,7 @@ RUN pip install -r requirements.txt
 
 COPY . .
 
-ENTRYPOINT ["pytest", "--executor", "192.168.0.102"]
+RUN ["pytest", "-v", "--junitxml=reports/result.xml"]
+ENTRYPOINT ["pytest"]
 
-CMD ["--browser", "chrome"]
+

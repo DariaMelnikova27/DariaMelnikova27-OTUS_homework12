@@ -1,0 +1,13 @@
+[32mINFO    [0m page_objects.BasePage:BasePage.py:70 Opening url: http://192.168.0.102:8081/admin
+[32mINFO    [0m page_objects.BasePage:BasePage.py:46 Check if element ('name', 'username') is present
+[32mINFO    [0m page_objects.BasePage:BasePage.py:39 Input user in input <selenium.webdriver.remote.webelement.WebElement (session="8923fada-cb29-4494-8c6a-86564c83b5f6", element="05714ff4-7e62-42b0-a02b-cfb7653683dc")>
+[32mINFO    [0m page_objects.BasePage:BasePage.py:34 Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="8923fada-cb29-4494-8c6a-86564c83b5f6", element="05714ff4-7e62-42b0-a02b-cfb7653683dc")>
+[32mINFO    [0m page_objects.BasePage:BasePage.py:46 Check if element ('css selector', '#input-password') is present
+[32mINFO    [0m page_objects.BasePage:BasePage.py:39 Input bitnami in input <selenium.webdriver.remote.webelement.WebElement (session="8923fada-cb29-4494-8c6a-86564c83b5f6", element="b7183847-91c2-4937-b001-ef240e12a9e7")>
+[32mINFO    [0m page_objects.BasePage:BasePage.py:34 Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="8923fada-cb29-4494-8c6a-86564c83b5f6", element="b7183847-91c2-4937-b001-ef240e12a9e7")>
+[32mINFO    [0m page_objects.BasePage:BasePage.py:46 Check if element ('css selector', "button[type='submit']") is present
+[32mINFO    [0m page_objects.BasePage:BasePage.py:34 Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="8923fada-cb29-4494-8c6a-86564c83b5f6", element="b13384c7-cc2c-4443-99a6-71cae4afaf1a")>
+[32mINFO    [0m page_objects.BasePage:BasePage.py:46 Check if element ('xpath', '//ul[@id="menu"]/li/a[contains(text(), "Catalog")]') is present
+[32mINFO    [0m page_objects.BasePage:BasePage.py:34 Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="8923fada-cb29-4494-8c6a-86564c83b5f6", element="cd836bbb-f06f-4157-a540-be8f6c027200")>
+[32mINFO    [0m page_objects.BasePage:BasePage.py:46 Check if element ('xpath', '//ul[@id="collapse1"]/li/a[contains(text(), "Products")]') is present
+[32mINFO    [0m page_objects.BasePage:BasePage.py:34 Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="8923fada-cb29-4494-8c6a-86564c83b5f6", element="ed9b7ee7-1e8c-4c28-9de2-6435448dff5c")>
